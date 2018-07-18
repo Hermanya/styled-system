@@ -1,5 +1,6 @@
 import React from 'react'
 import { styles, util } from 'styled-system'
+import { View } from 'react-primitives'
 
 const funcNames = Object.keys(styles)
 const unique = arr => [...new Set(arr)]
@@ -44,7 +45,7 @@ const omit = (obj, blacklist) => {
 }
 
 const tag = React.forwardRef(({
-  is: Tag = 'div',
+  is: Tag = View,
   blacklist = [],
   ...props
 }, ref) =>

@@ -1,5 +1,5 @@
 {
-  "name": "system-components",
+  "name": "system-component-primitives",
   "version": "3.0.0",
   "description": "Create consistent design-system-driven React UI components",
   "main": "dist/index",
@@ -22,6 +22,7 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
+    "react-primitives": "^0.6.0",
     "styled-system": "^3.0.1"
   },
   "devDependencies": {
