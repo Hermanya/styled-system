@@ -1,7 +1,7 @@
 
 <img src='docs/logo.svg' width='128' height='128' />
 
-# styled-system
+# This fork of styled-system has system-components with react-primitives View by default
 
 Design system utilities for [styled-components][sc] and other css-in-js libraries
 
