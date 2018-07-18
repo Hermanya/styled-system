@@ -1,7 +1,7 @@
 
-# system-components
+# native-system-components
 
-Create consistent design-system-driven React UI components
+Create consistent design-system-driven React UI components across native platforms
 
 Built with [styled-system][sys],
 with support for [styled-components][sc] & [emotion][emotion]

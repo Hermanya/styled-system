@@ -1,7 +1,7 @@
 
 <img src='docs/logo.svg' width='128' height='128' />
 
-# This fork of styled-system has system-components with react-primitives View by default
+# This fork of styled-system has native-system-components. It uses View from react-primitives as a default component tag.
 
 Design system utilities for [styled-components][sc] and other css-in-js libraries
 
